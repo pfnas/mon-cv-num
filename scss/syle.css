@@ -146,6 +146,8 @@ span a:hover {
   transform: translate(-5px, -3px);
   cursor: pointer;
   font-size: 1.2em;
+  color: #fff;
+  background: #000;
   font-weight: 900;
   -webkit-transform: translate(-5px, -3px);
   -moz-transform: translate(-5px, -3px);
