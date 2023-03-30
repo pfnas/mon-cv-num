@@ -86,6 +86,13 @@ aside {
   margin-top: 100px;
 }
 
+.loisirs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .etudes,
 .experiences {
   background-color: #E3E1E4;
@@ -195,7 +202,7 @@ span.footer:hover {
   .loisirs {
     width: 48%;
     margin: 0;
-    padding: 0 10px 25px 10px;
+    padding: 25px;
   }
 
   .image {
@@ -229,6 +236,7 @@ span.footer:hover {
   .experiences {
     width: 100%;
     text-align: left;
+    padding: 25px 20px;
   }
 
   img {
