@@ -169,7 +169,7 @@ span.footer:hover {
 }
 
 /* --------------------------Responsive---------------------------- */
-@media(max-width:768px) {
+@media(max-width:900px) {
   .sub_body {
     display: flex;
     flex-direction: column;
