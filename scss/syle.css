@@ -134,11 +134,11 @@ header>nav>aside>p a {
 a {
   display: inline-block;
   font-style: oblique;
-  transition: 1s ease-in-out;
-  -webkit-transition: 1s ease-in-out;
-  -moz-transition: 1s ease-in-out;
-  -ms-transition: 1s ease-in-out;
-  -o-transition: 1s ease-in-out;
+  transition: .8s ease-in-out;
+  -webkit-transition: .8s ease-in-out;
+  -moz-transition: .8s ease-in-out;
+  -ms-transition: .8s ease-in-out;
+  -o-transition: .8s ease-in-out;
 }
 
 span a:hover {
